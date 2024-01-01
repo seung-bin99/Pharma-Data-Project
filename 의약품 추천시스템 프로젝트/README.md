@@ -19,3 +19,6 @@
 
 ## 결과
 ![스크린샷](https://github.com/seung-bin99/Pharma-Data-Project/assets/153293674/4f88a813-c837-4a2b-8169-929842013b37)
+
+## 회고
+- 추후, 한국어 약품 데이터를 확보한다면 KoBert등의 딥러닝 모델을 통해 추천시스템 만들어보자
