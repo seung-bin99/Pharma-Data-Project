@@ -16,4 +16,4 @@
 #### >>> 기대효과 : 증상에 대한 편리한 약물 정보 획득 가능  
 
 ### 결과
-![스크린샷](https://github.com/seung-bin99/Pharma-Data-Project/assets/153293674/69734506-579c-463f-9599-679c6da38555)
+![스크린샷](https://github.com/seung-bin99/Pharma-Data-Project/assets/153293674/4f88a813-c837-4a2b-8169-929842013b37)
