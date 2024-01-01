@@ -18,4 +18,4 @@
 - 약이름 -> 유사한 약 추천
 
 ## 결과
-![스크린샷](https://github.com/seung-bin99/Pharma-Data-Project/assets/153293674/69734506-579c-463f-9599-679c6da38555)
+![스크린샷](https://github.com/seung-bin99/Pharma-Data-Project/assets/153293674/4f88a813-c837-4a2b-8169-929842013b37)
