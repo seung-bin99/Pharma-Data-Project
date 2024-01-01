@@ -6,7 +6,7 @@
 
 |class|Accuarcy|
 |------|---|
-|뇌전증|<span style="color:red">0.986</span>|
+|뇌전증|<span style="color:red">0.986</span>
 |뇌종양|0.827|
 |건강|0.826|
 
